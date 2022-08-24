@@ -1,0 +1,28 @@
+p {
+    margin-right: 520px;
+    margin-left: 520px
+}
+body{
+    min-height:100vh;
+    background-image: url("https://images4.alphacoders.com/938/thumb-1920-938858.jpg");
+
+}
+.header {
+    /* border: outset 5px #f6aac8;*/
+    height: 60px;
+    text-align: right;
+    padding: 15px;
+}
+.centerTxt {
+    text-align: center;
+}
+#nav {
+    display: inline;
+    margin: 20px;
+}
+.mcenterTxt {
+    margin-right: 470px;
+    margin-left: 470px
+		 text-align: center;
+}
+
