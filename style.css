@@ -1,26 +1,44 @@
-p {
-    margin-right: 15vw;
-    margin-left: 15vw;
+body {
+    background: linear-gradient(-20deg, #000, #181818, blue);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    min-height: 97vh;
 }
-body{
-    min-height: 100vh;
-    background: linear-gradient(#80d0c7, #13547a);
 
+@keyframes gradient {
+    0% {
+	background-position: 0% 50%;
+    }
+    50% {
+	background-position: 100% 50%;
+    }
+    100% {
+	background-position: 0% 50%;
+    }
 }
+
+p {
+    margin-right: 30vw;
+    margin-left: 30vw;
+}
+  
 .header {
-    height: 60px;
+    height: 25px;
     text-align: right;
-    padding: 15px;
+    padding: 30px;
+  /*box-shadow: 0 0 25px 0 black;*/
 }
 .centerTxt {
     text-align: center;
+    color: white;
+    font-size: 25px;
 }
 .header * {
     display: inline;
 }
 .header li a {
-    margin: 25px;
+    margin: 30px;
     text-decoration: none;
-    color: black;
-    font-size: 18px;
+    color: white;
+    font-size: 19px;
 }
