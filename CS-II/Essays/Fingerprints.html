@@ -25,15 +25,15 @@
     
     <div class="centerTxt">
       <p> <br><br></p>
-      <h1>Web Security Advancements and Online Attacking Methods</h1>
+      <h1 style=" font-family:Calibri;">Web Security Advancements and Online Attacking Methods</h1>
       <br>
-      <h3>Vijay Vemulapalli</h3>
-      <h3>Allen STEAM Center</h3>
-      <h3>Computer Science 2</h3>
-      <h3>Mr. Ben-Yaakov</h3>
-      <h3>August 25, 2022</h3>
+      <h3 style=" font-family:Calibri;">Vijay Vemulapalli</h3>
+      <h3 style=" font-family:Calibri;">Allen ISD STEAM Center</h3>
+      <h3 style=" font-family:Calibri;">Advanced Computer Science II</h3>
+      <h3 style=" font-family:Calibri;">Mr. Ben-Yaakov</h3>
+      <h3 style=" font-family:Calibri;">August 25, 2022</h3>
     </div>
-      <p style=" text-align: left; font-family:Calibri; line-height:2; font-size: 20px; color: white;"> <br><br> &emsp; &emsp; HTTPS connections are also known as SSL or TLS ("Secure Sockets Layer" and "Transport Layer Security"). It allows data connected using HTTPS to be sent back and forth over and encrypted by technology no one knows how to break. This also prevents people from copying websites and redirecting traffic to fake websites instead of the real ones. This is possible through entities called Certificate Authorities (CA) which is "A third party who we trust has assured us that our encrypted traffic is going only to the website we intend" (GRC, 2020). When a user's internet browser creates a secure connection with a website it has to provide the CA which the web browser needs to verify. These websites "prove their identity in the real physical world using incorporation documentation, Dun & Bradstreet records, their publicly known telephone numbers, and so forth" (GRC, 2020). The browser will verify the authenticity of the CA by ensuring the signature was one of the CAs it trusts from its long list of reputable CAs that exist.<br>
+      <p style=" text-align: left; font-family:Calibri; line-height:3.5; font-size: 20px; color: white;"> <br><br> &emsp; &emsp; HTTPS connections are also known as SSL or TLS ("Secure Sockets Layer" and "Transport Layer Security"). It allows data connected using HTTPS to be sent back and forth over and encrypted by technology no one knows how to break. This also prevents people from copying websites and redirecting traffic to fake websites instead of the real ones. This is possible through entities called Certificate Authorities (CA) which is "A third party who we trust has assured us that our encrypted traffic is going only to the website we intend" (GRC, 2020). When a user's internet browser creates a secure connection with a website it has to provide the CA which the web browser needs to verify. These websites "prove their identity in the real physical world using incorporation documentation, Dun & Bradstreet records, their publicly known telephone numbers, and so forth" (GRC, 2020). The browser will verify the authenticity of the CA by ensuring the signature was one of the CAs it trusts from its long list of reputable CAs that exist.<br>
 	 &emsp; &emsp;This loss of visibility created by the increased use of the HTTPS secure connection created problems for private institutions &mdash; corporations, schools, and other organizations &mdash; because some of these institutions wanted to access the internet usage of the students and employees.  These institutions developed and deployed new technology known as HTTPS Proxy Appliances. HTTPS Proxy Appliances allow institutions to "circumvent our most basic assumption and guarantee of Internet browser privacy and security" (GRC, 2020). Because institutions can't control exactly what they can and cannot see they decide to just see everything (GRC, 2020).<br>
 	&emsp; &emsp;An SSL Proxy interception is when an SSL Proxy intercepts a connection to a website and "creates a fraudulent "spoofed" web server certificate" to impersonate the certificate of the intended remote website (GRC, 2020). It signs the fraudulent certificate itself by using a fraudulent CA that was already planted on the user's browser or computer (GRC,2020). The impersonation is so perfect, that it is not possible for the browser or the user to figure out that they don't have a securely encrypted connection to the intended remote website. Unfortunately, SSL interceptions can't be prevented, although it is possible to reliably detect these interceptions through the use of the hash algorithm. Cryptographic hashes are complex mathematical algorithms in which if just one tiny part of the certificate is changed, then "an average of half of the fingerprint's hash bits will change in response" (GRC, 2020). This means that when a hash is used to fingerprint a certificate any minuscule changes will alter the fingerprint resulting in a completely different fingerprint altogether. Since it is impossible for an SSL Proxy to duplicate a remote server's certificate exactly, the hash algorithm can be used to easily and reliably detect SSL Proxy interceptions. Below is a flowchart depicting how the hash algorithm compares an authentic fingerprint with another retrieved from a browser and how SSL proxy interceptions are detected and avoided.<br>
 	       <img src="../../ISP-Images/FingerprintFL2.jpg" alt="Flowchart Image"><br>
@@ -44,10 +44,10 @@
       <div class="centerTxt">
 	<h2>References</h2>
 	</div>
-       <p style=" text-align: left; font-family:Calibri; line-height:2; font-size: 20px; color: white;"><br>
-	Arampatzis, A. (n.d.). What is a man-in-the-middle attack and why is it so dangerous? Venafi. Retrieved August 26, 2022,<br> &emsp; &emsp; from https://www.venafi.com/blog/why-are-man-middle-attacks-so-dangerous-venafi 
-        Legal Information Institute. (n.d.). Eavesdropping. Legal Information Institute. Retrieved August 26, 2022,<br> &emsp; &emsp; from https://www.law.cornell.edu/wex/eavesdropping
-	NSA spying on Americans is illegal. American Civil Liberties Union. (2006, February 6). Retrieved August 26, 2022,<br> &emsp; &emsp; from https://www.aclu.org/other/nsa-spying-americans-illegal#:~:text=Fourth%20Amendment,<br>-The%20right%20of&amp;text=Katz%20389%20US%20347)%20has,carved%20out%20in%20the%20law.
+       <p style=" text-align: left; font-family:Calibri; line-height:3.5; font-size: 20px; color: white;"><br>
+	Arampatzis, A. (n.d.). What is a man-in-the-middle attack and why is it so dangerous? Venafi. Retrieved August 26, 2022,<br> &emsp; &emsp; from https://www.venafi.com/blog/why-are-man-middle-attacks-so-dangerous-venafi <br> 
+        Legal Information Institute. (n.d.). Eavesdropping. Legal Information Institute. Retrieved August 26, 2022,<br> &emsp; &emsp; from https://www.law.cornell.edu/wex/eavesdropping<br>
+	NSA spying on Americans is illegal. American Civil Liberties Union. (2006, February 6). Retrieved August 26, 2022,<br> &emsp; &emsp; from https://www.aclu.org/other/nsa-spying-americans-illegal#:~:text=Fourth%20Amendment,<br>&emsp; &emsp;-The%20right%20of&amp;text=Katz%20389%20US%20347)%20has,carved%20out%20in%20the%20law.<br>
 	Steve Gibson, G. I. B. S. O. N. R. E. S. E. A. R. C. H. C. O. R. P. O. R. A. T. I. O. N. (n.d.). GRC&nbsp;: &nbsp;SSL TLS HTTPS web<br> &emsp; &emsp; server certificate fingerprints&nbsp;&nbsp;. GRC&nbsp;|&nbsp;SSL TLS HTTPS Web Server Certificate Fingerprints&nbsp;&nbsp;. Retrieved August 26, 2022,<br> &emsp; &emsp; from https://www.grc.com/fingerprints.htm#top 
       </p>
     

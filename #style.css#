@@ -1,4 +1,4 @@
-body {
+.l ,mklobody {
     background: linear-gradient(-20deg, #000, #040C54, blue);
     background-size: 100% 100%;
     min-height: 100vh;
