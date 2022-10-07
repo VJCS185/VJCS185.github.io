@@ -1,6 +1,6 @@
 p {
-    margin-right: 20vw;
-    margin-left: 20vw;
+    margin-right: 23vw;
+    margin-left: 23vw;
 }
 body{
     min-height: 97vh;
@@ -28,3 +28,9 @@ body{
     color: white;
     font-size: 17px;
 }
+.references {
+    text-indent: -45px;
+    padding-left: 45px;
+    text-align: center;
+    color: white;
+    line-height: 2;
