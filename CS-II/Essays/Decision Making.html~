@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Decision Making Biases</title>
+    <link href="../../style3.css" rel="stylesheet">
+    <meta charset="UTF-8">
+  </head>
+  <body>
+
+
+    <div class="header">
+      <ul id='nav'>
+	<li><a href='../../index.html'>Home</a></li>
+	<li><a href='../../aboutme.html'>About Me</a></li>
+	<li><a href='../../prioryearISP.html'>Previous ISP</a></li>
+	<li><a href='../../digitaljournal.html'>Why?</a></li>
+	<li><a href='../../classes.html'>Classes</a></li>
+	<li><a href='Fingerprints.html'>Fingerprints</a></li>
+	<li><a href='AI%20Sentience.html'>AI Sentience</a></li>
+	<li><a href='../Projects/Optimal%20Sort.html'>Optimal Sort</a></li>
+	<li><a href='../Projects/Business%20Plan/index.html'>Business</a></li>
+	<li><a href='../Projects/ISP/index.html'>ISP</a></li>
+	<li><a href='../../sources.html'>Sources</a></li>
+      </ul>
+    </div>
+
+    
+    <div class="centerTxt">
+      <p> <br><br></p>
+       <h1 style=" font-family:Serif; font-size: 19px;"><b>This assignment is estimated to be completed by 12:30. Please grade the latest version.</b></h1>
+      <br><br>
+      <h1 style=" font-family:Serif; font-size: 19px;"><b>Types of Decision Biases and How They Can Be Overcome</b></h1>
+      <br>
+      <p style=" font-family:Serif; font-size: 19px;">Vijay Vemulapalli</p>
+      <p style=" font-family:Serif; font-size: 19px;">Allen ISD STEAM Center</p>
+      <p style=" font-family:Serif; font-size: 19px;">Advanced Computer Science II</p>
+      <p style=" font-family:Serif; font-size: 19px;">Mr. Ben-Yaakov</p>
+      <p style=" font-family:Serif; font-size: 19px;">December 9, 2022</p>
+    </div>
+
+
+    <br><br><br><br>
+
+     <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Introduction</b></p>
+    <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;"> &emsp; &emsp; Biases have been an issue in all forms of work and they can have a number of negative effects on projects. For example, if a person has a bias against a certain group of people, they may make decisions that discriminate against that group, which can lead to unfair treatment and a lack of equal opportunity. This can create tension and conflict within the team and can make it difficult for the project to be successful. Biases can also lead to poor decision-making and a lack of objectivity, which can result in suboptimal outcomes for the project. Additionally, biases can cause people to overlook important information or perspectives, which can lead to a lack of thoroughness and attention to detail and can ultimately result in the project failing to meet its goals.<br></p>
+
+    <br>
+    <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Complexity Decision Bias</b></p>
+     <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+       &emsp; &emsp;Complexity Decision bias occurs when "Time pressure, information overload, and other environmental factors can increase the perceived complexity of a task" which has the ability to negatively influence decision quality (Arnott, 1998). When people are faced with a complex problem or situation and suboptimal decisions are made because they find it difficult to understand or evaluate all of the information available to them. The Yerkes-Dodson Law displays the effect of stress on decision quality. At low stress levels, decision quality is low. Decision quality is the greatest when a moderate level of stress is present and is once again low when the stress level is high. This type of bias can lead people to make decisions that are not in their best interest or that are not based on the most accurate or relevant information. It can also cause people to overlook important details or make assumptions about the situation that are not supported by the evidence.<br>
+       &emsp; &emsp; There are a few strategies that can be employed to avoid complexity decision bias. When faced with a complex or perceived complex problem, take your time. It may be tempting to rush through it in order to get it over with. However, this can lead to suboptimal decisions. Instead, take your time to carefully consider all of the available information and think through the potential consequences of each proposed decision. Complex problems can be overwhelming, but they are often made up of smaller, more manageable parts. Breaking the problem down into smaller parts allows you to easily understand and evaluate the information you have, and you will be better able to make a well-informed decision. My ISP team and I will use the described strategies for the duration of our ISP in order to produce the best results.
+     </p>
+
+     <br>
+    <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Correlation Decision Bias </b></p>
+    <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+      &emsp; &emsp; Correlation Decision bias is defined as "The probability of two events occurring together can be overestimated if they can be remembered to have co-occurred in the past" (Arnott, 1998). This type of bias can lead people to make incorrect assumptions about the causes of different outcomes, and it can also cause them to overlook other potential explanations. If a correlation between the number of hours studying and the grades they receive on exams is discovered, they may assume that studying more will always lead to better grades. However, this is not always true as other factors such as the quality of the studying, amount of sleep, and the difficulty of the exams can play a role.<br>
+      &emsp; &emsp; Correlation decision bias can influence my team into following a suboptimal solution to a problem when more efficient alternatives are readily possible. In order to avoid correlation decision bias, it must be understood that correlation does not always imply causation. Alternate explanations must always be considered because In most cases there may be multiple explanations for an event. To avoid correlation bias, consider all of the possible explanations rather than just focusing on the one that seems most obvious.
+      <br></p>
+
+    <br>
+    <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Overconfidence Decision Bais</b></p>
+    <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+      &emsp; &emsp;Overconfidence Decision bias is when people are too confident in their abilities or in the accuracy of their beliefs. This can lead people to make decisions based on a lack of or flawed information. Overconfidence bias can also cause people to overestimate their chances of success or underestimate the challenges they may face. For example, a person who is overconfident in their abilities of day trading may try to invest in the stock market, making large risky investments without considering the possible negative outcomes leading to financial losses. Overconfidence Bias could affect my ISP by giving our team confidence in our ability to complete the main parts of the project in a short amount of time.<br>
+      &emsp; &emsp;Commonly overconfidence bias occurs alongside a lack of evidence. Seeking out evidence to support your beliefs allows you to see how a similar event will actually turn out. This will rid assumptions of being able to complete a task and reveal possible challenges. This strategy will be used during my ISP to avoid bad decisions such as procrastination.
+    </p>
+
+
+
+
+
+    <br><br>
+      <div class="centerTxt">
+	<p style="font-family:Serif; font-size: 19px; color: white;"><b>References</b></p>
+	</div>
+       	 <p class="references" style=" text-align: left; font-family:Serif; font-size: 19px;">
+	   “A.I. Is Not Sentient. Why Do People Say It Is?” U, 5 Aug. 2022, safecomputing.umich.edu/news/ai-not-sentient-why-do-people-say-it.</p>
+	 	 <p class="references" style=" text-align: left; font-family:Serif; font-size: 19px;">
+		   Gordon, Leon. “Council Post: Is Sentient Ai upon Us?” Forbes, Forbes Magazine, 12 July 2022, www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/?sh=1210c66712cb.</p>
+	 <p class="references" style=" text-align: left; font-family:Serif; font-size: 19px;">
+	   Rohde, Klaus, et al. “Benefits & Risks of Artificial Intelligence.” Future of Life Institute, 29 Nov. 2021, futureoflife.org/background/benefits-risks-of-artificial-intelligence/#:~:text=The%20AI%20is%20programmed%20to,also%20results%20in%20mass%20casualties.</p>
+	 <p class="references" style=" text-align: left; font-family:Serif; font-size: 19px;">
+Roose, Kevin. “We Need to Talk about How Good A.I. Is Getting.” The New York Times, The New York Times, 24 Aug. 2022, www.nytimes.com/2022/08/24/technology/ai-technology-progress.html.  
+       </p>
+    
+    
+  </body>
+</html>
