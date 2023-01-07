@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ISP</title>
+    <link href="../../../style3.css" rel="stylesheet">
+    <meta charset="UTF-8">
+  </head>
+  <body>
+
+
+    <div class="header">
+      <ul id='nav'>
+	<li><a href='../../../index.html'>Home</a></li>
+	<li><a href='../../../aboutme.html'>About Me</a></li>
+	<li><a href='../../../prioryearISP.html'>Previous ISP</a></li>
+	<li><a href='../../../digitaljournal.html'>Why?</a></li>
+	<li><a href='../../../classes.html'>Classes</a></li>
+	<li><a href='../../Essays/Fingerprints.html'>Fingerprints</a></li>
+	<li><a href='../../Essays/AI%20Sentience.html'>AI Sentience</a></li>
+	<li><a href='../Optimal%20Sort.html'>Optimal Sort</a></li>
+	<li><a href='../Business Plan/index.html'>Business</a></li>
+	<li><a href='index.html'>ISP</a></li>
+	<li><a href='../../../sources.html'>Sources</a></li>
+      </ul>
+    </div>
+
+
+
+    
+    <div class="centerTxt">
+      <p> <br><br></p>
+
+       <p style=" text-align: left; font-family:Serif; font-size: 30px; color: white;">2-Jan-2023</p>
+       <br>
+
+      
+     <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Technical Challenges</b></p>
+<p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;"> &emsp; &emsp; This week no technical challenges were faced. The team instead had scheduling challenges as we weren't able to meet to start working on the ISP.<br></p>
+<br>
+
+      <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Scheduling Challenges</b></p>
+      <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;"> &emsp; &emsp; Working in differnt class periods has brought about communication problems. It is difficult to work with team because the only possible collaboration time is outside of the classroom. It is also difficult to find a time the works for all team members. Working online at different times may work for parts of the project in which only code has to be written, although it is suboptimal as written communication through messaging applications don't provide the same level of real time interactions.
+	&emsp; &emsp;I plan to overcome the issue by using zoom to communicate outside of school hours and in person when dealing with the physical parts. When working on parts of the project instead of trying to find a time for everyone, a time can be found for only a few of the team members as everyone is not needed at all times.
+	<br></p>
+<br>
+
+      <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Interpersonal  Challenges</b></p>
+      <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;"> &emsp; &emsp; There were no interpersonal challenges this week becuase the group was unable to work together.<br></p>
+      <br>
+
+      <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Technical Challenges</b></p>
+      <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;"> &emsp; &emsp; This week no technical challenges were faced. I only had to update the website by adding this Journal page and make the first entry. Everything went as expected when creating the Journals page and pushing the edits to Github.<br></p>
+<br>
+
+
+      <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Development Engineer</b></p>
+      <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;"> &emsp; &emsp; A Development Engineer designs, develops, tests, and maintains software applications. This involves analyzing user requirements, writing code, and debugging any issues that arise. They typically have a strong background in computer science and are skilled in programming languages such as C++, Java, and Python. They may also have expertise in specific areas such as web development, mobile app development, or data engineering.
+	&emsp; &emsp;I have a strong understanding of computer programming languages and a keen eye for detail, which makes me an effective problem-solver. I have also done many projects involving Artificial Intellegence including image classification.
+	<br></p>
+<br>
+
+
+
+    </div>
+
+
+  </body>
+</html>
