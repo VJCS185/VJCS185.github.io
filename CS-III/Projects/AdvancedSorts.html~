@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Fingerprints</title>
+    <link href="../../style3.css" rel="stylesheet">
+    <meta charset="UTF-8">
+  </head>
+  <body>
+
+
+    <div class="header">
+      <ul id='nav'>
+	<li><a href='../../index.html'>Home</a></li>
+	<li><a href='../../aboutme.html'>About Me</a></li>
+	<li><a href='../../prioryearISP.html'>Previous ISP</a></li>
+	<li><a href='../../digitaljournal.html'>Why?</a></li>
+	<li><a href='../../classes.html'>Classes</a></li>
+	<li><a href='Fingerprints.html'>Fingerprints</a></li>
+	<li><a href='AI%20Sentience.html'>AI Sentience</a></li>
+	<li><a href='../Projects/Optimal%20Sort.html'>Optimal Sort</a></li>
+	<li><a href='../Projects/Business%20Plan/index.html'>Business</a></li>
+	<li><a href='../Projects/ISP/index.html'>ISP</a></li>
+	<li><a href='../../sources.html'>Sources</a></li>
+      </ul>
+    </div>
+
+    
+    <div class="centerTxt">
+      <p> <br><br></p>
+      <h1 style=" font-family:Serif; font-size: 19px;">Advanced Sort Algorithms</h1>
+      <br>
+      <p style=" font-family:Serif; font-size: 19px;">Vijay Vemulapalli</p>
+      <p style=" font-family:Serif; font-size: 19px;">Allen ISD STEAM Center</p>
+      <p style=" font-family:Serif; font-size: 19px;">Advanced Computer Science III</p>
+      <p style=" font-family:Serif; font-size: 19px;">Mr. Ben-Yaakov</p>
+      <p style=" font-family:Serif; font-size: 19px;">September 1, 2023</p>
+    </div>
+
+
+    <br><br><br><br>
+
+     <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Merge sort</b></p>
+    <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;"> &emsp; &emsp;Merge Sort is an efficient sorting algorithm that works recursively using a divide-and-conquer method. Merge sort divides an array into smaller sections by dividing the original array into 2 equal parts until no more divisions are possible, meaning there is 1 element per sub-array. Merge sort then sorts each sub-array and merges the sorted sub-arrays together. This process repeats, making bigger and bigger sorted sub-arrays, until the array is completely joined back together and sorted.
+ &emsp; &emsp;The time complexity of Merge sort is always O(n*Log n) for all cases - worst, average, and best. This is because Merge sort takes linear time to split and merge the sub-arrays. Merge sort is also able to achieve this speed because breaking the array down allows the algorithm to sort without having to iterate through every element every pass. The space complexity of Merge sort is O(n). The reason for its large space complexity is that when splitting the array into sub-arrays, copies of the original array are created which takes up memory.
+      <br></p>
+<br>
+<p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Quick sort</b></p>
+
+<p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+  &emsp; &emsp;Quick Sort is another recursive algorithm that uses the divide and conquer method. The algorithm first chooses a pivot. The best possible pivot is the median value. Finding the best pivot can be done with the median-of-three method in which the first, middle, and last elements of the array are sorted, and the middle element of that sorted list is used as the pivot. Using a pivot that is at or near the median value is important because the Quick Sort algorithm will place values less than the pivot to the left and values greater than the pivot to the right. The array is then split into 2 sub-arrays. From there the process repeats until each sub-array is sorted. Then sub-arrays are merged back together to create the final sorted array.
+  &emsp; &emsp;Quick Sort has a best and average time complexity of O(n*Log n). Just like Merge Sort, this time complexity is because it takes linear time to divide and merge the arrays. It also can achieve this speed by eliminating the need to iterate through every element of the entire list in every iteration when sorting because of the array divisions. Quick Sort also has a worst time complexity of O(n^2) which is the result of using a pivot that is the maximum or minimum value. The space complexity of Quick Sort is low at O(logn). This is because Quick Sort changes the original array instead of creating copies when dividing the array. This takes less memory leading to a lower space complexity.<br></p>
+<br>
+
+<p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Heap Sort</b></p>
+
+<p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+  &emsp; &emsp;Heap Sort works by converting the array into a binary tree which is a non-linear data structure with a maximum of two children for each parent node. The algorithm then converts the binary tree into what is called a max heap where the value of each node is greater than or equal to the value of its children nodes. In order to create the max heap the algorithm checks if each parental node is greater than or equal to its child nodes and swaps the child and parent nodes if this is not the case. After the conditions are met the max heap is created. Then the largest parent node is swapped with the smallest value in the heap. The remaining elements of the binary tree are converted into another max heap which will bring the the smallest value from the previous max heap into the correct position. This process is repeated with the largest value from each heap being placed in the array as the first element. As the process is repeated, the array will be sorted as every next largest value of a max heap will be smaller and is placed before the other elements in the list. In the end, the array will be sorted.
+&emsp; &emsp;The time complexity of Heap Sort is consistent. It is O(n*Log n) for the best, average, and worst cases. The space complexity of Heap Sort is O(1) because Heap Sort is an in-place sorting algorithm and no extra data structures are used.
+  <br></p>
+<br>
+<p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Time Complexity Comparison</b></p>
+
+<p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+  &emsp; &emsp;Merge Sort and Heap Sort have the save time complexities for the best, average, and worst cases. Quick Sort will have the same time complexity as Merge and Heap Sort in its best and average cases, although it can be slower than Merge and Heap Sort when given a worse than average case. Merge, Heap, and Quick Sort are all able to sort at the same speeds in optimal cases, but in sub-optimal cases Merge and Heap Sort will be faster than Quick Sort. <br></p>
+<br>
+<p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Space Complexity Comparison</b></p>
+
+<p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+  &emsp; &emsp;Heap Sort has the best space complexity as it does not require any extra data structures and is an in-place algorithm. Next is Quick Sort because it uses external data structures when creating sub-arrays. The algorithm with the worst space complexity is Merge sort. Just like Quick Sort, it uses external data structures to create sub-arrays, but unlike Quick Sort it creates copies of the original arrays when creating sub-arrays which takes up more memory.
+<br></p>
+<br>
+    
+    
+  </body>
+</html>
