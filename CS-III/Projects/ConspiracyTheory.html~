@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Conspiracy Theory</title>
+    <link href="../../style3.css" rel="stylesheet">
+    <meta charset="UTF-8">
+  </head>
+  <body>
+
+
+    <div class="header">
+      <ul id='nav'>
+	<li><a href='../../index.html'>Home</a></li>
+	<li><a href='../../aboutme.html'>About Me</a></li>
+	<li><a href='../../prioryearISP.html'>Previous ISP</a></li>
+	<li><a href='../../digitaljournal.html'>Why?</a></li>
+	<li><a href='../../classes.html'>Classes</a></li>
+	<li><a href='Fingerprints.html'>Fingerprints</a></li>
+	<li><a href='AI%20Sentience.html'>AI Sentience</a></li>
+	<li><a href='../Projects/Optimal%20Sort.html'>Optimal Sort</a></li>
+	<li><a href='../Projects/Business%20Plan/index.html'>Business</a></li>
+	<li><a href='../Projects/ISP/index.html'>ISP</a></li>
+	<li><a href='../../sources.html'>Sources</a></li>
+      </ul>
+    </div>
+
+    
+    <div class="centerTxt">
+      <p> <br><br></p>
+      <h1 style=" font-family:Serif; font-size: 19px;">Algorithm Awareness & The Spread of Conspiracy Theories</h1>
+      <br>
+      <p style=" font-family:Serif; font-size: 19px;">Vijay Vemulapalli</p>
+      <p style=" font-family:Serif; font-size: 19px;">Allen ISD STEAM Center</p>
+      <p style=" font-family:Serif; font-size: 19px;">Advanced Computer Science III</p>
+      <p style=" font-family:Serif; font-size: 19px;">Mr. Ben-Yaakov</p>
+      <p style=" font-family:Serif; font-size: 19px;">October 19, 2023</p>
+    </div>
+
+
+    <br><br><br><br>
+
+     <p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>The Basics of Recommendation Algorithms</b></p>
+    <p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;"> &emsp; &emsp;Recommendation algorithms are used by social media companies such as Meta and TikTok to keep the user on the application for as long as possible. This is done by collecting information on the viewer's interest and constantly bombarding them with content they are likely to love.
+<br>
+ &emsp; &emsp;First, the user interaction data is collected. This includes likes, saves, comments, shares, and watch time. Since the user will have more interactions with certain videos they like, the recommendation algorithm can build a profile on the types of content the user likes. Then, the algorithm uses this information and analyzes other content to find the content the user will like. Then it feeds this content to the user keeping them on the app for as long as possible each session. 
+
+      <br></p>
+<div class="centerTxt">
+<img src="../../ISP-Images/Basis.png" alt="Flowchart Image" style="border:7px solid #7581EE;">
+</div>
+    <br>
+<p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Feedback Loop</b></p>
+
+<p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+  &emsp; &emsp;The feedback loop is part of the recommendation algorithm that makes sure to feed the best content to the user. The feedback loop allows the algorithm to update the user profile as the users become interested in different types of content.
+<br>
+  &emsp; &emsp;First, the algorithm collects data on which posts the user interacts with. The interactions show the user likes the content. Then the algorithm builds a profile on the user by storing their interaction data. After that, the data is used to find content that is similar to the content the user likes, and it feeds the content to the user.
+<br></p>
+
+<img src="../../ISP-Images/Feedback.png" alt="Flowchart Image" style="border:7px solid #7581EE;">
+
+<br>
+
+<p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Conspiracy Theories & Algorithmic Amplification</b></p>
+
+<p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+  &emsp; &emsp;Conspiracy Theories are controversial ideas or speculations that are spread. This type of content usually has lots of interactions, meaning many people like the content, because it is highly engaging as it acts like a story with a build-up. This leads to many user profiles being associated with conspiracy theory content and the algorithm continues to feed the user with this content to retain the user’s attention. <br>
+&emsp; &emsp;This leads to many users being fed lots of misinformation. With these social media platforms having billions of users, many of whom show interest in conspiracy theory content, the spread of misinformation can have a significant effect on the thoughts of the population.
+
+  <br></p>
+<br>
+<p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Platform Incentives</b></p>
+
+<p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+  &emsp; &emsp;Companies want users to stay on the application for as long as possible because this allows more advertisements to be fed to the user. This is because advertisements are paid by the number of views they get. These companies are only concerned with increasing their profits and have little to no concern for the spread of misinformation. This leads to the algorithm working solely in the favor of keeping users on the platform without regard for misinformation. With billions of users, this can create a significant impact on the beliefs of the population. 
+ <br></p>
+<br>
+<p style=" text-align: left; font-family:Serif; font-size: 19px; color: white;"><b>Potential for Exploitation</b></p>
+
+<p style=" text-align: left; font-family:Serif; line-height:2; font-size: 19px; color: white;">
+  &emsp; &emsp;Since the content shared is not heavily regulated for the control of misinformation, Malicious users who understand how the recommendation algorithm works can spread misinformation that receives lots of interactions. This allows the malicious user to create content that has a lot of reach and also spreads misinformation. These malicious users can affect the thoughts of those they influence through their videos and the algorithm is incentivized to spread their content. This leads to these videos with misinformation going viral and affecting many people who use the platform.
+
+<br></p>
+<br>
+
+      <div class="centerTxt">
+	<p style="font-family:Serif; font-size: 19px; color: white;"><b>References</b></p>
+      </div>
+
+	 <p class="references" style=" text-align: left; font-family:Serif; font-size: 19px;">
+	  Narayanan, Arvind, and Arvind Narayanan. “Understanding Social Media Recommendation Algorithms.” RSS, 9 Mar. 2023, knightcolumbia.org/content/understanding-social-media-recommendation-algorithms#:~:text=In%20the%20algorithmic%20model%20shown,to%20be%20recommended%20the%20post.   </p> 
+
+         	 <p class="references" style=" text-align: left; font-family:Serif; font-size: 19px;">
+West, Darrell M., et al. “How Do Recommender Systems Work on Digital Platforms?” Brookings, 2 Dec. 2022, www.brookings.edu/articles/how-do-recommender-systems-work-on-digital-platforms-social-media-recommendation-algorithms/.  </p>
+
+
+
+    
+  </body>
+</html>
